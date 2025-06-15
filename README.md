@@ -1,5 +1,6 @@
 ### 我是threedr3am，大伙都叫我三梦 👋
-专注Java开发，热衷于研究各种Java组件、中间件，深爱探究其架构设计思想和源码实现，only crud boy.
+熟悉Java开发，热衷于研究各种Java组件、中间件，深爱探究其架构设计思想和源码实现，not only crud boy.
+最近两年专注于从0到1的企业安全建设，主要包括SDL&DevSecOps、SoC、云k8s、WAF等，及基础业务安全（IoT MQTT&OCPP、OSS、CDN、HTTP加验签等）。
 
 <!--
 **threedr3am/threedr3am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
